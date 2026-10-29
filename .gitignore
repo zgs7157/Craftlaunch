@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# 运行产物
+*.log
+launcher.log
+
+# 下载缓存（版本清单、加载器安装器等）
+.cache/
